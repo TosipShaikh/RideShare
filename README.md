@@ -157,11 +157,3 @@ We welcome contributions to RideShare! Whether it's adding new features, fixing 
 5.  **Open a Pull Request:** Submit a pull request from your branch to the `main` branch of the original RideShare repository. Please describe your changes thoroughly.
 
 Feel free to open an issue first if you'd like to discuss a significant change or new feature. Don't forget to give the project a star!
-
-## 📧 Contact
-
-Om Gholap - [iomgholap123@gmail.com](mailto:iomgholap123@gmail.com)
-
-Project Link: [https://github.com/omgholap11/RideShare](https://github.com/omgholap11/RideShare)
-
----

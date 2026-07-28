@@ -29,7 +29,7 @@ function sendEmailToDriver(driverEmail, userDetails, rideDetails) {
   } = rideDetails;
 
   const mailOptions = {
-    from: "iomgholap123@gmail.com",
+    from: "tosipshaikh319@gmail.com",
     to: driverEmail,
     subject: "📌 New Ride Booking Request",
     text: `

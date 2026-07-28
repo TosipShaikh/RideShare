@@ -74,7 +74,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/omgholap11/RideShare.git](https://github.com/omgholap11/RideShare.git)
+    git clone [https://github.com/TosipShaikh/RideShare.git](https://github.com/TosipShaikh/RideShare.git)
     cd RideShare
     ```
 
@@ -142,18 +142,3 @@ RideShare is designed for a modern MERN stack deployment strategy:
 1.  **Environment Variables:** Ensure all sensitive environment variables are securely configured on your chosen hosting platforms.
 2.  **CORS:** Your Node.js backend must be configured to allow requests from your deployed frontend domain.
 3.  **SSL (HTTPS):** Enable HTTPS for secure communication. Most modern hosting providers offer free SSL certificates.
-
-## 🤝 Contributing
-
-We welcome contributions to RideShare! Whether it's adding new features, fixing bugs, improving documentation, or suggesting enhancements, your input is greatly appreciated.
-
-1.  **Fork the Project:** Start by forking the RideShare repository to your GitHub account.
-2.  **Create your Feature Branch:** Create a new branch for your work:
-    `git checkout -b feature/AmazingFeature`
-3.  **Commit your Changes:** Make your changes, ensuring your commit messages are clear and concise:
-    `git commit -m 'feat: Add some AmazingFeature'` (using conventional commits is recommended)
-4.  **Push to the Branch:** Push your changes to your forked repository:
-    `git push origin feature/AmazingFeature`
-5.  **Open a Pull Request:** Submit a pull request from your branch to the `main` branch of the original RideShare repository. Please describe your changes thoroughly.
-
-Feel free to open an issue first if you'd like to discuss a significant change or new feature. Don't forget to give the project a star!
